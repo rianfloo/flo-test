@@ -1,0 +1,8 @@
+{
+  "name": "Flo test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "ebcf918e"
+}
